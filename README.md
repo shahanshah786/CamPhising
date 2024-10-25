@@ -7,8 +7,8 @@ In this tool I added two automatic webpage templates for engaged target on webpa
 - simply enter festival name or youtube's video ID (eg:YH-uLEbRYpk)
 
 ### This Tool Tested On :
-<h5>Kali Linux</h5> 
-<h5>Termux</h5> 
+- Linux
+- Termux 
 
 ##
 
