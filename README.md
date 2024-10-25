@@ -18,7 +18,7 @@
   git clone --depth=1 https://github.com/shahanshah786/CamPhising.git
   ```
 
-- Now go to cloned directory and run `camphish.sh` -
+- Now go to cloned directory and run
   ```
   $ cd camphish
   $ bash camphish.sh
